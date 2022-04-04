@@ -39,8 +39,8 @@
   
   ### While loop
  
-  <details>Codes</details>
- <summary>
+ <summary>Codes</summary>
+ <details>
    ~~~
   
   public class Application{
@@ -55,4 +55,4 @@
    }
   }
     ~~~
-  </summary>
+  </details>
