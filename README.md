@@ -88,7 +88,7 @@
   
   <details>Codes</details>
   
-  <summary>
+<summary>
     
     ~~~
      public class Application{
@@ -104,7 +104,9 @@
     }
   }
   
-   ### Else If               
+   ### Else If    
+    
+    ~~~
   
     public class Application{
     public static void main(String[] args){
@@ -118,8 +120,13 @@
                   
     }
   }
+                                     
+  ~~~
+                                     
+ ### If-ElseIf-Else
     
-    ### If-ElseIf-Else
+ ~~~ 
+    
     public class Application{
     public static void main(String[] args){
     int myInt=5;
@@ -132,9 +139,9 @@
        else{
     System.out.println("None of the above!");
                   }           
-    }
-  }  
+      }
+    }  
                                      
   ~~~
-  </summary>
+</summary>
     
