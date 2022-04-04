@@ -39,7 +39,7 @@
   
   ### While loop
  
-  <details>Coodes</details>
+  <details>Codes</details>
  <summary>
    ~~~
   
@@ -53,5 +53,5 @@
                       
     
    
-  
+    ~~~
   </summary>
