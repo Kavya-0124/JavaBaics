@@ -123,15 +123,15 @@
                                      
   ~~~
                                      
- ### If-ElseIf-Else
+ ### If ElseIf Else
     
  ~~~ 
     
-    public class Application{
-    public static void main(String[] args){
-    int myInt=5;
+ public class Application{
+ public static void main(String[] args){
+ f int myInt=5;
     
-    if(myInt<10){
+ if(myInt<10){
     System.out.println("Yes, It's true!");
                   else if(myInt<20){
     System.out.println("No, it's false!");
