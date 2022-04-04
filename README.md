@@ -1,8 +1,10 @@
 # StringsinJava
 
 
-  <details>Codes </details>
-   <summary> 
+  <details>
+  <summary> Codes </summary>
+
+
     ~~~
     
     public class Application
@@ -29,7 +31,7 @@
     
     
  
-  </summary>
+  </details>
   
   
   ###While loop
