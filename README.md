@@ -1,8 +1,8 @@
 # StringsinJava
 
-<summary>
+
   <details>Codes </details>
-    
+   <summary> 
     ~~~
     
     public class Application
