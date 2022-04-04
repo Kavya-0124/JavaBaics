@@ -2,6 +2,9 @@
 
 
   <details>
+  Strings in Java are Objects that are backed internally by a char array. Since arrays are
+  immutable(cannot grow), Strings are immutable as well. Whenever a change to a String is made,
+  an entirely new String is created. 
   <summary> Codes </summary>
 
 
@@ -35,10 +38,20 @@
   
   
   ### While loop
+ 
+  <details>Coodes</details>
+ <summary>
+   ~~~
   
-  <summary>
-  <details>
+  public class Application{
+  public static void main(String[] args){
+  int value = 10;
+  boolean loop= 4 < 5;
+                      while( value<10){
+  
+                      System.out.println();
+                      
     
-    ~~~
-  </details>
+   
+  
   </summary>
