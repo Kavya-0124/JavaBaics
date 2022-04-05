@@ -145,3 +145,74 @@
   ~~~
 </summary>
     
+### Getting User-Input
+  
+  <details>Codes</details>
+  
+  <summary>
+    
+    ~~~ 
+    
+    
+    import java.until.Scanner;
+    
+    public class Application{
+    public static void main(String[] args){
+    //Create scanner object
+    Scanner input=new Scanner(System.in);
+    
+    //Output the program
+    System.out.println("Enter the integer/float/double/char/string: ");
+    
+    //Waut for the user to enter something
+    int/float/double/char/string value = input.nextInt/Float/Double/Char/String();
+    
+    //Tell then what they entered
+    System.out.println("You Entered: " + line/value);
+    
+    }
+    }
+    
+    ~~~
+    
+  </summary>
+  
+  ### Do while loop
+  
+  <details>Codes</details>
+  
+  <summary>
+    
+    ~~~
+    
+    import java.until.Scanner;
+    
+    public class App{
+    public static void main(String[] args){
+    
+    Scanner scanner = new Scanner(System.in):
+    /*
+    System.out.println("Enter a number: ");
+    int value = scanner.nextInt();
+    
+    while(value i=5){
+    System.out.println("Enter a number: ");
+    value = scanner.nextInt();
+    }*/
+    
+    int value=0;
+    do {
+    System.out.println("Enter a number: ");
+    value = scanner.nextInt();
+    }
+    while(value !=5);
+    
+    System.out.println("got 5!");
+    
+    }
+    }
+    
+    ~~~
+    
+  </summary>
+    
