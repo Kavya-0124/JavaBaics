@@ -91,7 +91,7 @@
 <summary>
     
     ```
-     public class Application{
+    public class Application{
     public static void main(String[] args){
     int myInt=20;
     
@@ -105,8 +105,11 @@
   }
                   
   ```
-                  
+   </summary>  
+  
    ### Else If    
+   
+   <summary>
     
     ```
   
@@ -124,8 +127,12 @@
   }
                                      
   ```
-                                     
+   
+  </summary>
+  
  ### If ElseIf Else
+  
+  <summary>
     
  ```
     
