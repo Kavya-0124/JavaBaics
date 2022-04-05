@@ -8,7 +8,7 @@
   <summary> Codes </summary>
 
 
-    ~~~
+    ```
     
     public class Application
     {
@@ -30,7 +30,7 @@
     }
     }
     
-    ~~~
+    ```
     
     
  
@@ -42,7 +42,7 @@
  <summary>Codes</summary>
  <details>
   
- ~~~
+   ```
   
   public class Application{
   public static void main(String[] args){
@@ -60,7 +60,7 @@
    }
   }
   
-  ~~~
+  ```
   
   </details>
   
@@ -69,7 +69,7 @@
   <details>Codes</details>
   <summary>
   
-  ~~~
+  ```
   
   public class Application{
   public static void main(String[] args){
@@ -79,7 +79,7 @@
                }
           }
                     
-  ~~~
+  ```
                     
  </summary>
   
@@ -90,7 +90,7 @@
   
 <summary>
     
-    ~~~
+    ```
      public class Application{
     public static void main(String[] args){
     int myInt=20;
@@ -103,10 +103,12 @@
                   
     }
   }
-  
+                  
+  ```
+                  
    ### Else If    
     
-    ~~~
+    ```
   
     public class Application{
     public static void main(String[] args){
@@ -121,11 +123,11 @@
     }
   }
                                      
-  ~~~
+  ```
                                      
  ### If ElseIf Else
     
- ~~~ 
+ ```
     
  public class Application{
  public static void main(String[] args){
@@ -142,7 +144,8 @@
       }
     }  
                                      
-  ~~~
+  ```
+                                     
 </summary>
     
 ### Getting User-Input
@@ -151,7 +154,7 @@
   
   <summary>
     
-    ~~~ 
+    ```
     
     
     import java.until.Scanner;
@@ -173,7 +176,7 @@
     }
     }
     
-    ~~~
+    ```
     
   </summary>
   
@@ -183,7 +186,7 @@
   
   <summary>
     
-    ~~~
+    ```
     
     import java.until.Scanner;
     
@@ -212,7 +215,7 @@
     }
     }
     
-    ~~~
+    ```
     
   </summary>
     
