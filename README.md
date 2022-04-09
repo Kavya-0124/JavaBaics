@@ -2,7 +2,7 @@
 
 
   <details>
-   <summary> Codes </summary>
+  <summary>Codes</summary>
 
    ```
   
@@ -31,17 +31,16 @@
     }
     }
     
-    ```
-  
+  ```  
   </details>
   
   
-  ### While loop
+### While loop
  
  <details>
  <summary>Codes</summary>
   
-   ```
+  ```
   
   public class Application{
   public static void main(String[] args){
@@ -60,13 +59,12 @@
   }
   
   ```
+ </details>
+ 
   
-  </details>
-  
-  ### For Loops
+ ### For Loops
   
   <details>
-  
   <summary>Codes</summary>
   
   ```
@@ -80,17 +78,16 @@
           }
                     
   ```
-                    
-   </details>
+ </details>
   
   
-  ### Conditional Statements
+ ### Conditional Statements
   
   <details>
-  
-   <summary>Codes</summary>
+  <summary>Codes</summary>
     
-    ```
+   ```
+    
     public class Application{
     public static void main(String[] args){
     int myInt=20;
@@ -105,14 +102,15 @@
   }
                   
   ```
-   </details>  
+  </details>  
   
-   ### Else If    
+    
+### Else If    
    
-    <details>
-    <summary>Codes</summary>
+<details>
+<summary>Codes</summary>
   
-    ```
+ ```
   
     public class Application{
     public static void main(String[] args){
@@ -126,16 +124,18 @@
                   
     }
   }
+  
                                      
   ```
-   
-    </details>
+  </details>
+    
   
  ### If ElseIf Else
-  
- <summary>
     
- ```
+<details>
+<summary>Codes</summary>  
+  
+```
     
  public class Application{
  public static void main(String[] args){
@@ -153,16 +153,15 @@
     }  
                                      
   ```
-                                     
-</summary>
+ </details>
+    
     
 ### Getting User-Input
   
-  <details>Codes</details>
-  
-  <summary>
+  <details>
+  <summary>Codes</summary>
     
-    ```
+  ```
     
     import java.until.Scanner;
     
@@ -183,17 +182,17 @@
     }
     }
     
-    ```
     
-  </summary>
-  
-  ### Do while loop
-  
-  <details>Codes</details>
-  
-  <summary>
+  ```
+  </details>
     
-    ```
+  
+### Do while loop
+  
+  <details>
+  <summary>Codes </summary>
+    
+  ```
     
     import java.until.Scanner;
     
@@ -222,7 +221,6 @@
     }
     }
     
-    ```
-    
-  </summary>
+  ```
+  </details>
     
