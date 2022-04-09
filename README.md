@@ -2,13 +2,14 @@
 
 
   <details>
+   <summary> Codes </summary>
+
+   ```
+  
   Strings in Java are Objects that are backed internally by a char array. Since arrays are
   immutable(cannot grow), Strings are immutable as well. Whenever a change to a String is made,
   an entirely new String is created. 
-  <summary> Codes </summary>
-
-
-    ```
+ 
     
     public class Application
     {
@@ -31,16 +32,14 @@
     }
     
     ```
-    
-    
- 
+  
   </details>
   
   
   ### While loop
  
- <summary>Codes</summary>
  <details>
+ <summary>Codes</summary>
   
    ```
   
@@ -66,8 +65,9 @@
   
   ### For Loops
   
-  <details>Codes</details>
-  <summary>
+  <details>
+  
+  <summary>Codes</summary>
   
   ```
   
@@ -81,14 +81,14 @@
                     
   ```
                     
-   </summary>
+   </details>
   
   
   ### Conditional Statements
   
-  <details>Codes</details>
+  <details>
   
-   <summary>
+   <summary>Codes</summary>
     
     ```
     public class Application{
@@ -105,12 +105,13 @@
   }
                   
   ```
-   </summary>  
+   </details>  
   
    ### Else If    
    
-   <summary>
-    
+    <details>
+    <summary>Codes</summary>
+  
     ```
   
     public class Application{
@@ -128,7 +129,7 @@
                                      
   ```
    
-   </summary>
+    </details>
   
  ### If ElseIf Else
   
