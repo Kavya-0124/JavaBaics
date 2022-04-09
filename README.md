@@ -81,14 +81,14 @@
                     
   ```
                     
- </summary>
+   </summary>
   
   
   ### Conditional Statements
   
   <details>Codes</details>
   
-<summary>
+   <summary>
     
     ```
     public class Application{
@@ -128,17 +128,17 @@
                                      
   ```
    
-  </summary>
+   </summary>
   
  ### If ElseIf Else
   
-  <summary>
+ <summary>
     
  ```
     
  public class Application{
  public static void main(String[] args){
- f int myInt=5;
+ int myInt=5;
     
  if(myInt<10){
     System.out.println("Yes, It's true!");
@@ -163,7 +163,6 @@
     
     ```
     
-    
     import java.until.Scanner;
     
     public class Application{
@@ -174,7 +173,7 @@
     //Output the program
     System.out.println("Enter the integer/float/double/char/string: ");
     
-    //Waut for the user to enter something
+    //Wait for the user to enter something
     int/float/double/char/string value = input.nextInt/Float/Double/Char/String();
     
     //Tell then what they entered
