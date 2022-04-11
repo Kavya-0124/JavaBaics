@@ -295,8 +295,7 @@
      }
      
   ```
-     
-    </details>
+     </details>
     
  ### Arrays of Strings
     
@@ -329,5 +328,4 @@
       }
       
   ``` 
-      
     </details>
