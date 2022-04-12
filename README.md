@@ -296,15 +296,13 @@
      
   ```
      </details>
- 
-    
+     
  ### Arrays of Strings
  
-    
     <details>
     <summary>Codes</summary>
       
-  ```
+   ``` 
       
       public class App {
       public static void main(String[] args){
@@ -329,5 +327,6 @@
       }
       }
       
-  ``` 
+   ``` 
+      
     </details>
