@@ -226,10 +226,11 @@
   ```
   </details>
     
+    
 ### Switch
     
-  <details>
-  <summary>Codes</summary>
+<details>
+<summary>Codes</summary>
     
  ```   
     
@@ -257,14 +258,15 @@
     }
     }
     
+    
   ```
+  </details>
     
-   </details>
     
-### Arrays
+ ### Arrays
    
-   <details>
-   <summary>Codes</summary>
+  <details>
+  <summary>Codes</summary>
      
   ```
      
@@ -294,17 +296,18 @@
      }
      }
      
-  ```
      
-     </details>
+  ```
+ </details>
     
      
+    
  ### Arrays of Strings
  
-    <details>
-    <summary>Codes</summary>
+  <details>
+  <summary>Codes</summary>
       
-   ``` 
+  ``` 
       
       public class App {
       public static void main(String[] args){
@@ -329,6 +332,6 @@
       }
       }
       
-   ``` 
       
-    </details>
+ ``` 
+ </details>
