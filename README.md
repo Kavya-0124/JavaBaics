@@ -415,37 +415,55 @@
     Output:
     Joe
       
-    ```
+  ```
       
-    </details>
+  </details>
     
   
-  ### Methods
+### Methods
     
-    <details>
+  <details>
+  <summary>Codes</summary>
       
-    ```
+  ```
     
-      class Person{
-      String name;
-      int age;
-      }
+     class Person{
+     String name;
+     int age;
       
-      public class App{
-      public static void main(String[] args){
-      Person person1 = new Person();
-      person1.name = "Joe";
-      person1.age = "21";
+     void speak(){
+     for(int i=o; i<3; i++){
+                        System.out.println("My name is: " + name + "and I am" + age+ " years old ");
+     void sayHello() {
+                        System.out.println("Hello there!");
+         }
+     }
       
-      Person person2 = new Person();
-      person2.name = "Ally";
-      person2.age + "33";
+     public class App{
+     public static void main(String[] args){
+     Person person1 = new Person();
+     person1.name = "Joe";
+     person1.age = "21";
       
-      System.out.println(person1.name);
+     Person person2 = new Person();
+     person2.name = "Ally";
+     person2.age + "33";
       
-      }
-      }
+     System.out.println(person1.name);
+      
+     }
+     }
  
-    ```
+   ```
       
-    </details>
+   </details>
+      
+ 
+### Getters and Returns
+    
+  <details>
+  <summary>Codes</summary>
+    
+```
+    
+  
