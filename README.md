@@ -376,20 +376,21 @@
      
    ```
      
-   </details>
+  </details>
     
  ### Classes and Objects
     
-    <details>
+    
      Class is a template for creating objects or class is a blueprint if you like for creating        objects.
      Classes can contain
      1. Data(Instance Variables)
      2. Subroutines(Methods)
      Object is an instance of class.
+    
+  <details>  
+  <summary>Codes</summary>
       
-    <summary>Codes</summary>
-      
-    ```
+   ```
       
       class Person{
       String name;
@@ -410,7 +411,41 @@
       
       }
       }
+    
+    Output:
+    Joe
       
+    ```
+      
+    </details>
+    
+  
+  ### Methods
+    
+    <details>
+      
+    ```
+    
+      class Person{
+      String name;
+      int age;
+      }
+      
+      public class App{
+      public static void main(String[] args){
+      Person person1 = new Person();
+      person1.name = "Joe";
+      person1.age = "21";
+      
+      Person person2 = new Person();
+      person2.name = "Ally";
+      person2.age + "33";
+      
+      System.out.println(person1.name);
+      
+      }
+      }
+ 
     ```
       
     </details>
