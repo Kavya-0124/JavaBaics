@@ -515,6 +515,96 @@
     
   </details>
     
+  
+### Method Parameters
+   
+  <details>
+  <summary>Codes</summary>
+ 
+```
+   class Robot{
+    public void speak(String text){
+    System.out.println(text);
+    }
+    public void jump(int height){
+    System.out.println("Jumping: +height);
+    }
+    public void move(String direction, double distance){
+    System.out.println("Moving "+distance +"meters in direction" +direction);
+    }
+    }
+    
+    public class App{
+    public static void main(Strings[] args){
+    Robot sam = new Robot();
+    
+    sam.speak("Hi I'm Sam.");
+    sam.jump(7);
+    
+    sam.move("West", 12.2);
+    String greeting="Hello there";
+    sam.speak(greeting);
+    
+    int value=14;
+    sam.jump(value);
+    
+    }
+    }
+    
+  ```
+   
+  </details>
+    
+   
+### Setters and this
+    
+  <details>
+  <summary>Codes</summary>
+    
+```
+  
+   class Frog{
+    private String name;
+    private int age;
+    
+    public void setName(String name){
+    this.name=name;
+    }
+    
+    public void setAge(int age){
+    this.age=age;
+    }
+    
+    public String getName(){
+    return name;
+    }
+    
+    public int getAge(){
+    return age;
+    }
+    
+    public void setInfo(String name, int age){
+    setName(name);
+    setAge(age);
+    }
+    }
+    
+    public class App{
+    
+    public static void main(String[] args)
+    Frog frog1=new Frog();
+    frog1.setName("Bertie");
+    frog1.age=1;
+    
+    System.out.println(frog1.gerName());
+    }
+    }
+    
+  ```
+    
+  </details>
+    
+    
     
     
     
